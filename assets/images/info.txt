@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Molle-Regular
+font link: https://fonts.google.com/specimen/Molle
+font author: Elena Albertoni
+font author site: http://www.anatoletype.net/about
+
+
+{"bg":"transparent","icon-gradient-0":"#1E0B36","icon-gradient-1":"#CA3782","font":"#000000","slogan":"#141414"}
+      
